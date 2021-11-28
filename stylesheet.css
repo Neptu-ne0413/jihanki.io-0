@@ -1,0 +1,31 @@
+.header{
+  background-color: #70D2B4;
+  border-bottom: 4px solid #FF1493;
+  /*色は相談*/
+padding-left: 100px;
+}
+h1 {
+  font-size: 18px;
+  color: #ffffff;
+}
+span {
+  color: #9400D3;
+}
+.main {
+  margin: 0;
+  width: 100vw;
+  height: 100vh; background-image:url("https://cdn.amanaimages.com/preview640/10610003870.jpg");
+  font-size: 30px;
+   border-bottom: 4px solid #FF1493;
+  /*色は相談*/
+  
+}
+ a {
+   margin: 50px 1px 20px 50px; 
+ }
+
+.footer-list {
+  background-color: #149494;
+float: right;
+  color: #fff;
+}
