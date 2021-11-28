@@ -8,6 +8,11 @@ h1 {
   font-size: 18px;
   color: #ffffff;
 }
+h2 {
+  font-size: 16px;
+  color: #000;
+  font-family: HGP行書体;
+}
 span {
   color: #9400D3;
 }
@@ -32,7 +37,12 @@ float: right;
 #popup{
   width:30%;
   line-height:100px;
-  background:#000;
+  background:  linear-gradient( 
+		#d64fcd, 
+		#60b6ef, 
+		#89d37a, 
+		#f9ed7d
+	);
   padding:0 4%;
   box-sizing:border-box;
   display:none;
@@ -67,4 +77,8 @@ input[type="checkbox"]{
 input[type="checkbox"]:checked + #popup{
   display:block;
   transition:.2s;
+}
+
+.popup {
+  font-size: 1px;
 }
