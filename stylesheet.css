@@ -4,19 +4,15 @@
   /*色は相談*/
 padding-left: 100px;
 }
-.header h1 {
+h1 {
   font-size: 18px;
   color: #ffffff;
 }
-.header h2 {
+h2 {
   font-size: 16px;
   color: #000;
   font-family: HGP行書体;
 }
-.header h3{ 
-	font-size 1px
-	color: #70D2B4;
-	 opacity: 0.7;
 span {
   color: #9400D3;
 }
@@ -26,6 +22,8 @@ span {
   height: 100vh; background-image:url("https://cdn.amanaimages.com/preview640/10610003870.jpg");
   font-size: 30px;
    border-bottom: 4px solid #FF1493;
+  /*色は相談*/
+  
 }
  a {
    margin: 50px 1px 20px 50px; 
@@ -69,7 +67,7 @@ label span{
   border-radius:4px;
   text-align:center;
 }
-label span:hover {
+label span:hover{
   cursor:pointer;
 }
 input[type="checkbox"]{
