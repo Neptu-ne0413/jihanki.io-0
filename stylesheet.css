@@ -13,8 +13,10 @@ padding-left: 100px;
   color: #000;
   font-family: HGP行書体;
 }
-.header h3{
-	font-size 1px;
+.header h3{ 
+	font-size 1px
+	color: #70D2B4;
+	 opacity: 0.7;
 span {
   color: #9400D3;
 }
