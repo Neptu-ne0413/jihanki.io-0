@@ -16,8 +16,10 @@ padding-left: 100px;
 .header h3 {
 	 font-size:1px;
 	 float:right;
+}
 span {
   color: #9400D3;
+
 }
 .main {
   margin: 0;
@@ -42,7 +44,6 @@ float: right;
   line-height:100px;
 	backgroiund-color: #fff;
 	font-size:20px;
-	
   background:  linear-gradient( 
 		#d64fcd, 
 		#60b6ef, 
