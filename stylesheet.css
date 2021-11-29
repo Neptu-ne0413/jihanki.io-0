@@ -1,24 +1,20 @@
 .header{
   background-color: #70D2B4;
   border-bottom: 4px solid #FF1493;
+  /*色は相談*/
 padding-left: 100px;
 }
-.header h1 {
+h1 {
   font-size: 18px;
   color: #ffffff;
 }
-.header h2 {
+h2 {
   font-size: 16px;
   color: #000;
   font-family: HGP行書体;
 }
-.header h3 {
-	 font-size:1px;
-	 float:right;
-}
 span {
   color: #9400D3;
-
 }
 .main {
   margin: 0;
@@ -26,7 +22,7 @@ span {
   height: 100vh; background-image:url("https://cdn.amanaimages.com/preview640/10610003870.jpg");
   font-size: 30px;
    border-bottom: 4px solid #FF1493;
- 
+  /*色は相談*/
   
 }
  a {
@@ -41,8 +37,6 @@ float: right;
 #popup{
   width:30%;
   line-height:100px;
-	backgroiund-color: #fff;
-	font-size:20px;
   background:  linear-gradient( 
 		#d64fcd, 
 		#60b6ef, 
@@ -87,5 +81,4 @@ input[type="checkbox"]:checked + #popup{
 
 .popup {
   font-size: 1px;
-	<h3><a href="https://neptu-ne0413.github.io/jihanki.io/"></a>出展</h3>
 }
