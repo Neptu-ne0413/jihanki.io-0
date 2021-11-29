@@ -1,7 +1,6 @@
 .header{
   background-color: #70D2B4;
   border-bottom: 4px solid #FF1493;
-  /*色は相談*/
 padding-left: 100px;
 }
 .header h1 {
@@ -27,7 +26,7 @@ span {
   height: 100vh; background-image:url("https://cdn.amanaimages.com/preview640/10610003870.jpg");
   font-size: 30px;
    border-bottom: 4px solid #FF1493;
-  /*色は相談*/
+ 
   
 }
  a {
@@ -88,4 +87,5 @@ input[type="checkbox"]:checked + #popup{
 
 .popup {
   font-size: 1px;
+	<h3><a href="https://neptu-ne0413.github.io/jihanki.io/"></a>出展</h3>
 }
