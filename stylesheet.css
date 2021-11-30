@@ -27,10 +27,8 @@ span {
   font-weight: 900;
 }
  a {
-   margin-bottom:1px;
-  margin-left: 60px;
-  padding-top: 120px;
   text-align:center
+    color: #fff;
  }
 .text-background-test01 {
   font-size: 2.5rem;
