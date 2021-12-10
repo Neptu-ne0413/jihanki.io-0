@@ -19,28 +19,15 @@ span {
 .main {
   margin: 0;
   width: 100vw;
-  height: 100vh; 
-  background-image:url("https://cdn.amanaimages.com/preview640/10610003870.jpg");
+  height: 100vh; background-image:url("https://cdn.amanaimages.com/preview640/10610003870.jpg");
   font-size: 30px;
    border-bottom: 4px solid #FF1493;
   /*色は相談*/
-  font-weight: 900;
+  
 }
  a {
-  text-align:center
-    color: #fff;
+   margin: 50px 1px 20px 50px; 
  }
-.text-background-test01 {
-  font-size: 2.5rem;
-  font-weight: 600;
-  line-height: 1.4em;
-  padding: 5px;
-  background:#000;
-background-opacity: ;
-}
-
-
-
 
 .footer-list {
   background-color: #149494;
@@ -49,13 +36,13 @@ float: right;
 }
 #popup{
   width:30%;
-  line-height:50px;
+  line-height:100px;
   background:  linear-gradient( 
-#d64fcd, 
-#60b6ef, 
-#89d37a, 
-#f9ed7d
-);
+		#d64fcd, 
+		#60b6ef, 
+		#89d37a, 
+		#f9ed7d
+	);
   padding:0 4%;
   box-sizing:border-box;
   display:none;
@@ -75,9 +62,9 @@ label span{
   display:block;
   background-color:#01b6ed;
   color:#fff;
-  width:400px;
+  width:200px;
   line-height:40px;
-  border-radius:360px;
+  border-radius:4px;
   text-align:center;
 }
 label span:hover{
@@ -87,13 +74,10 @@ input[type="checkbox"]{
   display:none;
 }
 
-
 input[type="checkbox"]:checked + #popup{
   display:block;
   transition:.2s;
 }
 
-
 .popup {
   font-size: 1px;
-}
