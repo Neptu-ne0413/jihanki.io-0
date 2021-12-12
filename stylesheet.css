@@ -20,7 +20,7 @@ span {
   margin: 0;
   width: 100vw;
   height: 100vh; background-image:url("https://cdn.amanaimages.com/preview640/10610003870.jpg");
-  font-size: 30px;
+  font-size: cover;
    border-bottom: 4px solid #FF1493;
   /*色は相談*/
   
